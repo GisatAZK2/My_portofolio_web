@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Setelah website memiliki domain publik, ganti placeholder di bawah lalu hapus tanda #.
+# Sitemap: https://GANTI-DENGAN-DOMAIN-ANDA/sitemap.xml
